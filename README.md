@@ -13,5 +13,11 @@ First of all, bot ask who you are - Manager or worker:
   - For manager button is "Show List" - show all you group with parametr 1 or 0.
 
 
-My TelegramBot (may be disabled) @CheckInIvcBot
+My TelegramBot (may be disabled): @CheckInIvcBot
+
+
+
+#TODO:
+ 1. Get server with SSL sertificate to get working bot with web-hook. 
+ 2. Update function which is return list of workers with using UserName and First_Name.
 

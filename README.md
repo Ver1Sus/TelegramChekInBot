@@ -16,7 +16,7 @@ First of all, bot ask who you are - Manager or worker:
 My TelegramBot (may be disabled): @CheckInIvcBot
 
 Sample:
- <img src="https://github.com/Ver1Sus/TelegramChekInBot/edit/master/sample.png"/>
+ <img src="https://github.com/Ver1Sus/TelegramChekInBot/edit/master/sample.png"></img>
 
 #TODO:
  1. Get server with SSL sertificate to get working bot with web-hook. 
